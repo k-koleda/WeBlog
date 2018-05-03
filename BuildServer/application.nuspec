@@ -7,7 +7,4 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Application package</description>
     </metadata>
-    <files>
-        <file src="..\*.*" target="" />
-    </files>
 </package>
